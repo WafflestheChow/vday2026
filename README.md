@@ -1,2 +1,2 @@
 # vday2026
-Valentines Day Card For Lula
+# Didn't want to buy a card so I decided to animate something instead.
